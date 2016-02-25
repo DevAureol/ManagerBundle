@@ -4,6 +4,7 @@
     "keywords" : ["Symfony", "Manager"],
     "license": "MIT",
     "minimum stability" :"dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Raphael Domingues",
