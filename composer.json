@@ -5,6 +5,9 @@
     "license": "MIT",
     "minimum stability" :"dev",
     "prefer-stable": true,
+        "autoload": {
+        "psr-4": { "Aureol\\ManagerBundle\\": "" }
+    },
     "authors": [
         {
             "name": "Raphael Domingues",
