@@ -5,7 +5,7 @@
     "license": "MIT",
     "minimum stability" :"dev",
     "prefer-stable": true,
-        "autoload": {
+    "autoload": {
         "psr-4": { "Aureol\\ManagerBundle\\": "" }
     },
     "authors": [
