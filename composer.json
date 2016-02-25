@@ -1,0 +1,13 @@
+{
+    "name": "aureol/managerbundle",
+    "description": "Bundle for generate manager",
+    "keywords" : ["Symfony", "Manager"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raphael Domingues",
+            "email": "raphael.domingues@epitech.eu"
+        }
+    ],
+    "require": {}
+}
