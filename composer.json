@@ -3,6 +3,7 @@
     "description": "Bundle for generate manager",
     "keywords" : ["Symfony", "Manager"],
     "license": "MIT",
+    "minimum stability" :"dev",
     "authors": [
         {
             "name": "Raphael Domingues",
